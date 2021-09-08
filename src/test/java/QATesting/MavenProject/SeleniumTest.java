@@ -6,10 +6,12 @@ public class SeleniumTest {
 	@Test
 	public void test3() {
 		System.out.println("Test3");
+		System.out.println("Test4");
 	}
 	@Test
 	public void test4() {
-		System.out.println("Test4");
+		System.out.println("Test5");
+		
 	}
 
 }
