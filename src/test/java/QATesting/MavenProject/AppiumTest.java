@@ -19,5 +19,9 @@ public class AppiumTest {
 	public void test8() {
 		System.out.println("Test8");
 	}
+	@Test
+	public void test9() {
+		System.out.println("Test8");
+	}
 
 }
